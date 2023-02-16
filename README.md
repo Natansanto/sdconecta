@@ -9,7 +9,7 @@ Link local: http://localhost:8080/swagger-ui.html
 # Considerações:
 
 * O parâmetro (header) **Token de autorização** pode ser qualquer número, exemplo 10.
-* Foi utilizado o **banco de dados PostgreSQL**
+* Foi utilizado o **banco de dados PostgreSQL** ajustem apenas as configurações de usuario e senha de acordo com a  conf de vocês 
 * Foi utilizado o IntelliJ IDEA para desenvolver o **Microsseviço**
 * O mesmo é um projeto **maven** 
 * Foi foi a **integração com a API** do GitHub para busca os dados do perfil
