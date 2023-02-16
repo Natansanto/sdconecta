@@ -24,6 +24,8 @@ Link local: http://localhost:8080/swagger-ui.html
 # Exemplo de algumas validações: 
 
 ![image](https://user-images.githubusercontent.com/37228699/219453237-0377cee4-e1b7-4c5c-ac87-8350f587b5e9.png)
+![image](https://user-images.githubusercontent.com/37228699/219455967-37742ce7-fdf2-4efe-a073-577ccb5295f0.png)
+
 
 
 # Estruta base do projeto:
