@@ -27,6 +27,9 @@ Link local: http://localhost:8080/swagger-ui.html
 ![image](https://user-images.githubusercontent.com/37228699/219455967-37742ce7-fdf2-4efe-a073-577ccb5295f0.png)
 
 
+# Exemplo de alguns testes unitarios 
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/37228699/219528975-51fd5a14-c2db-4f13-b51a-338e59b8f6b6.png">
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/37228699/219528806-50fe9c7a-dee3-4cb0-98ea-2f8028817905.png">
 
 # Estruta base do projeto:
 
