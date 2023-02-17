@@ -50,7 +50,6 @@ sdconecta-impl
 				infrastructure
 					Client
 					Entity
-					Enums
 					Repository
 					Config
 		resources/db/migration
